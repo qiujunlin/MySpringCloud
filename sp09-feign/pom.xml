@@ -9,7 +9,7 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tedu</groupId>
+	<groupId>com</groupId>
 	<artifactId>sp09-feign</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sp09-feign</name>
